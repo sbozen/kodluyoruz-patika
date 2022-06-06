@@ -1,6 +1,7 @@
 # Kodluyoruz Ilk Repo
 
-![web_img](https://unsplash.com/photos/dMUt0X3f59Q)
+![](https://raw.githubusercontent.com/sbozen/kodluyoruzilkrepo/main/altumcode-dMUt0X3f59Q-unsplash.jpg)
+
 Bu repo Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ### Installation
